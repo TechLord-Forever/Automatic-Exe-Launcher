@@ -3,4 +3,5 @@ By: Derek Santos
 Using Python 3
 
 At a certain time, this script will launch the desired *.exe.
-A python script to open applications whenever I need them to be opened. This helps when I'm expecting an update for an application though it needs to be newly opened while I'm not currently at home, or at my computer.
+
+A python script to open applications whenever needed. This helps when expecting updates for an application when it needs to be freshly opened while not at home, or at a workstation.
