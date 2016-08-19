@@ -1,7 +1,6 @@
 Automatic Exe Launcher
 ======================
 
-
 Aurthor
 -------
 Derek Santos
