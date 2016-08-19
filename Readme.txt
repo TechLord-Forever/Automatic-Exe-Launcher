@@ -1,7 +1,20 @@
-By: Derek Santos
+Automatic Exe Launcher
+======================
 
-Using Python 3
+
+Aurthor
+-------
+Derek Santos
+
+
+Description
+-----------
 
 At a certain time, this script will launch the desired *.exe.
 
-A python script to open applications whenever needed. This helps when expecting updates for an application when it needs to be freshly opened while not at home, or at a workstation.
+A python script to open applications whenever needed. 
+
+Useful when
+-----------
+- This helps when expecting updates for an application that would need to be freshly opened while not at home, or at a workstation. Example : A launcher of some sort.
+- Running other self made applications at a certain time.
