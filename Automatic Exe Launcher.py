@@ -1,13 +1,3 @@
-"""
-    By: Derek Santos
-    Explaination:
-        A python script to open applications whenever one needs them to be
-        opened. This helps when an application is expecting an update though 
-        it needs to be newly opened while I'm not currently at home,
-        or at my computer.
-
-"""
-
 from datetime import datetime
 import subprocess
 
