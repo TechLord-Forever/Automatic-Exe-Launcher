@@ -11,13 +11,11 @@ expected['hour'] = int(input('What HOUR do you want?: '))
 expected['minute'] = int(input('What MINUTE do you want?: '))
 expected['ampm'] = str(input('AM or PM?: ')).lower()
 
-#goes from 24 to 12 timelines.
+#goes from 12 to 24 hour timelines.
 if (expected['ampm'] == 'pm') and (expected['hour'] < 12):
+    #datetime uses 24 hour.
     expected['hour'] += 12
 
-print(expected['hour'])
-print(expected['minute'])
-print(expected['ampm'])
 while (True):
     #when current time is > than now execute
     if (datetime.now().hour == expected['hour']) and (datetime.now().minute == expected['minute']):
